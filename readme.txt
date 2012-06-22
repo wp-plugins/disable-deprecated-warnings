@@ -1,11 +1,11 @@
 === Disable Deprecated Warnings for Plugins ===
 Contributors: tamlyn
-Tags: debug, depracated, errors, wp-debug
+Tags: debug, deprecated, depracated, errors, wp-debug
 Requires at least: 3.0
-Tested up to: 3.3
+Tested up to: 3.4
 Stable tag: trunk
 
-Prevents plugins from showing depracated errors in the WordPress admin.
+Prevents plugins from showing deprecated errors in the WordPress admin.
 
 == Description ==
 
