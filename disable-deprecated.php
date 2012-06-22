@@ -1,8 +1,8 @@
 <?php
 /*
-	Plugin Name: Disable Deprecated Warnings for Plugins
+	Plugin Name: Disable Deprecated Warnings
 	Version: 1.0
-	Description: Prevents plugins from showing depracated errors in the WordPress admin when WP_DEBUG is on.
+	Description: Prevents plugins from showing deprecated errors in the WordPress admin when WP_DEBUG is on.
 	Author: tamlyn
 	Author URI: http://outlandishideas.co.uk
 */

@@ -1,4 +1,4 @@
-=== Disable Deprecated Warnings for Plugins ===
+=== Disable Deprecated Warnings ===
 Contributors: tamlyn
 Tags: debug, deprecated, depracated, errors, wp-debug
 Requires at least: 3.0
@@ -11,7 +11,7 @@ Prevents plugins from showing deprecated errors in the WordPress admin.
 
 As a theme developer, you want to have WP_DEBUG enabled but you're not interested in the deprecated warnings created by other plugins. Use this plugin to disable these messages while still displaying other errors, warnings and notices.
 
-[Plugin by Outlandish Ideas](http://outlandishideas.co.uk/)
+[Plugin by Outlandish Ideas](http://outlandishideas.co.uk/blog/2012/06/hide-deprecated-errors-in-wordpress/)
 
 == Installation ==
 
